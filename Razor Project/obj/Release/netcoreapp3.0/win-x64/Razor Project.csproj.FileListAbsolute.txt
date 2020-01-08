@@ -1,0 +1,7 @@
+B:\Sources\Razor Project\Razor\Razor Project\obj\Release\netcoreapp3.0\win-x64\staticwebassets\Razor Project.StaticWebAssets.Manifest.cache
+B:\Sources\Razor Project\Razor\Razor Project\obj\Release\netcoreapp3.0\win-x64\staticwebassets\Razor Project.StaticWebAssets.xml
+B:\Sources\Razor Project\Razor\Razor Project\obj\Release\netcoreapp3.0\win-x64\Razor Project.MvcApplicationPartsAssemblyInfo.cache
+B:\Sources\Razor Project\Razor\Razor Project\obj\Release\netcoreapp3.0\win-x64\Razor Project.RazorAssemblyInfo.cache
+B:\Sources\Razor Project\Razor\Razor Project\obj\Release\netcoreapp3.0\win-x64\Razor Project.RazorAssemblyInfo.cs
+B:\Sources\Razor Project\Razor\Razor Project\obj\Release\netcoreapp3.0\win-x64\Razor Project.AssemblyInfoInputs.cache
+B:\Sources\Razor Project\Razor\Razor Project\obj\Release\netcoreapp3.0\win-x64\Razor Project.AssemblyInfo.cs
